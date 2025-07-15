@@ -16,8 +16,10 @@ This portfolio highlights my hands-on work in areas such as:
 
 ## 🔧 Projects Overview
 
-### 📁 Ansible Playbooks
-- **`palo_alto_firewall.yml`** — Automates NAT and security policy deployment on Palo Alto firewalls with logging and HIPAA-compliant audit readiness.
+### Ansible Playbooks
+- **palo_alto_firewall.yml** — Automates NAT and security policy deployment on Palo Alto firewalls with audit logging for HIPAA compliance.
+- **[palo_alto_block_non_compliant_apps.yml](https://gist.github.com/vin18-byte/7148362aba86cdd3f564fd257139ab66)** — Denies non-compliant apps (Telnet, FTP, SMB) on Palo Alto firewalls for HIPAA/PCI-DSS compliance.
+
 
 ### 📁 Scripts
 - **`backup_firewall_configs.py`** — Automates secure backups of firewall configurations across multiple vendors.
