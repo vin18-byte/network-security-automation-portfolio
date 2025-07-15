@@ -1,34 +1,39 @@
-# network-security-automation-portfolio
-“Collection of real-world network security automation projects including Palo Alto firewall automation, cloud networking, and scripts.”
-
 # Network Security & Automation Portfolio
 
-Welcome! I’m [Vin], a Network Security Engineer focused on automating and securing enterprise networks.
-
-This repository showcases my hands-on work with:
-
-- Palo Alto Firewall automation using Ansible  
-- Network device backup and monitoring scripts  
-- Cloud network design best practices  
-- Infrastructure as code with Terraform  
-
-## Projects Overview
-
-### Ansible Playbooks
-- **palo_alto_firewall.yml** — Automates NAT and security policies deployment on Palo Alto firewalls with audit logging for HIPAA compliance.
-
-### Scripts
-- **backup_firewall_configs.py** — Automates backups of firewall configurations across devices.
-- **monitor_logs.sh** — Parses firewall logs to extract key security events.
-
-### Documentation
-- **DMZ_design_guide.md** — Best practices for designing secure DMZs in AWS environments.
+📌 *Collection of real-world network security automation projects including Palo Alto firewall automation, cloud networking, and operational scripts.*
 
 ---
 
-Feel free to explore the code, and connect with me for collaborations or questions!
+Welcome! I’m **Vin**, a Network Security Engineer passionate about automating and securing enterprise infrastructure.  
+This portfolio highlights my hands-on work in areas such as:
+
+- 🔐 Palo Alto firewall automation using Ansible  
+- 🔄 Backup and monitoring scripts for network devices  
+- ☁️ Cloud network architecture (AWS) and DMZ design  
+- ⚙️ Infrastructure as Code (IaC) using Terraform  
 
 ---
 
-*LinkedIn:* [https://www.linkedin.com/in/vineeth-kumar-vedula-063601135/]  
-*Email:* vvk020125@gmail.com
+## 🔧 Projects Overview
+
+### 📁 Ansible Playbooks
+- **`palo_alto_firewall.yml`** — Automates NAT and security policy deployment on Palo Alto firewalls with logging and HIPAA-compliant audit readiness.
+
+### 📁 Scripts
+- **`backup_firewall_configs.py`** — Automates secure backups of firewall configurations across multiple vendors.
+- **`monitor_logs.sh`** — Parses and analyzes firewall logs for key security events (e.g., denied traffic, port scans).
+
+### 📁 Documentation
+- **`DMZ_design_guide.md`** — A practical guide to designing a secure and scalable DMZ architecture in AWS, including Palo Alto VM-Series integration.
+
+---
+
+## 🤝 Connect with Me
+
+- 🔗 **LinkedIn:** [Vineeth Kumar Vedula](https://www.linkedin.com/in/vineeth-kumar-vedula-063601135/)  
+- 📧 **Email:** vvk020125@gmail.com
+
+Feel free to explore, fork, or connect. Always open to discussing network security, automation, or collaborative ideas.
+
+---
+
